@@ -9,6 +9,4 @@ export const Container = styled.View`
   width: 80%;
   margin-bottom: 10px;
   margin-top: 10px;
-  /* flex-grow: 1; */
-  /* margin: 0px 10% 5% 5%; */
 `;
